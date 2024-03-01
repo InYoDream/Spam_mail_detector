@@ -1,5 +1,4 @@
 scikit-learn==1.2.0
-os
 collections
 pandas==1.5.2
 numpy==1.23.5
